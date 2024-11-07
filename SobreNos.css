@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body {
+    background-image: linear-gradient(to right,#042940,#005C53,#DBF227); 
+    max-width: 1000px;
+    min-width: 320px;
+    margin: auto;
+
+}
+
+div{
+    background-color: beige;
+    border-radius: 30px;
+}
+
+h1{
+    text-decoration: underline black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+p{
+    text-align: justify;
+    text-shadow: 5px;
+    text-indent: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
